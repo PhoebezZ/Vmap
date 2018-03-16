@@ -1,2 +1,3 @@
-# Vmap
-UCSC
+# UCSC Vending Machine Map
+
+
